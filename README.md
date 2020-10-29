@@ -2,3 +2,4 @@
 
 1. 1st day:  Basic of zookeeper and basic coding of pandas 
 2. 2nd day: basic of zookepper completed and basic of python coding
+3. Basic of hdfs and python coding 
