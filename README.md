@@ -8,3 +8,7 @@
 6. Basic of mapreduce and hacker rank solve 1-8days python coding 
 7. hacker rank python
 8. hacker rank python 
+9. linux basic
+10. linux completed 
+11. c++tutorial basic
+12. leetcode python 
